@@ -1,5 +1,4 @@
 import random
-winnings = int(0)
 fireworks = """
                \`\/\/\/`/
                 )======(
